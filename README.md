@@ -1,4 +1,4 @@
-#Mark's Lives Game
+# Mark's Lives Game
 
 **Mark's Lives Game** is a mobile platform game (platformer).
 
