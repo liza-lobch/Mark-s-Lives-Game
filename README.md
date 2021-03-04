@@ -6,4 +6,6 @@ Download for android - _Mark's Lives Game.apk_.
 
 View presentation - _Mark's Lives Game Presentation.pdf_.
 
+View developed scripts - _Mark's Lives Game Scripts_.
+
 Watch video demo - _https://drive.google.com/file/d/1O6Bd_bp_Hb_dC_4WU-FAIUmePyhpFf2c/view?usp=sharing_.
